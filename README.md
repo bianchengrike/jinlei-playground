@@ -20,3 +20,18 @@ Contents
 
 [day-001](./2022/day-001.py)
 
+[day-002](./2022/day-002.py)
+
+[day-003](./2022/day-003.py)
+
+> LBYL vs EAFP: Preventing or Handling Errors in Python
+
+Look before you leap ([LBYL](https://docs.python.org/3/glossary.html#term-LBYL))
+
+Easier to ask forgiveness than permission ([EAFP](https://docs.python.org/3/glossary.html#term-EAFP))
+
+However, the fact remains that Python as a language doesn't have an explicit preference regarding these two coding styles. [Guido van Rossum](https://twitter.com/gvanrossum), the creator of Python, has said as much:
+
+> […] I disagree with the position that EAFP is better than LBYL, or “generally recommended” by Python. ([Source](https://mail.python.org/pipermail/python-dev/2014-March/133118.html))
+
+["As with many other things in life, the answer to the initial questions is: it depends! If the problem at hand suggests that EAFP is the best approach, then go for it. On the other hand, if the best solution implies using LBYL, then use it without thinking that you’re violating a Pythonic rule."](https://realpython.com/python-lbyl-vs-eafp/#the-pythonic-way-to-go-lbyl-or-eafp)
