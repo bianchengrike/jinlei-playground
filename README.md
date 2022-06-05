@@ -35,3 +35,9 @@ However, the fact remains that Python as a language doesn't have an explicit pre
 > […] I disagree with the position that EAFP is better than LBYL, or “generally recommended” by Python. ([Source](https://mail.python.org/pipermail/python-dev/2014-March/133118.html))
 
 ["As with many other things in life, the answer to the initial questions is: it depends! If the problem at hand suggests that EAFP is the best approach, then go for it. On the other hand, if the best solution implies using LBYL, then use it without thinking that you’re violating a Pythonic rule."](https://realpython.com/python-lbyl-vs-eafp/#the-pythonic-way-to-go-lbyl-or-eafp)
+
+[day-004](./2022/day-004.py)
+
+> LBYL vs EAFP: Preventing or Handling Errors in Python
+
+Avoiding Race Conditions
