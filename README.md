@@ -41,3 +41,10 @@ However, the fact remains that Python as a language doesn't have an explicit pre
 > LBYL vs EAFP: Preventing or Handling Errors in Python
 
 Avoiding Race Conditions
+
+[day-005](./2022/day-005.py)
+
+> Python Type Checking (Guide)
+
+Type hint 101
+
