@@ -48,3 +48,9 @@ Avoiding Race Conditions
 
 Type hint 101
 
+[day-006](./2022/day-006.py)
+
+> Pairwise distances or affinity
+
+
+
