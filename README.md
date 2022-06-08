@@ -54,3 +54,16 @@ Type hint 101
 
 
 
+[day-007](./2022/day-007.py)
+
+> Common Assertion Formats
+
+- **Comparison assertions** 
+
+- **Membership assertions**
+
+- **Identity assertions**
+
+- **Type check assertions** 
+
+  
