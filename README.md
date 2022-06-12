@@ -71,3 +71,7 @@ Type hint 101
 [day-008](./2022/day-008.py)
 
 The goal of assertion should be to uncover programmers’ errors rather than users’ errors. 
+
+[day-009](./2022/day-009.py)
+
+Handling exceptions with the context manager.
