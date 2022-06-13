@@ -75,3 +75,15 @@ The goal of assertion should be to uncover programmers’ errors rather than use
 [day-009](./2022/day-009.py)
 
 Handling exceptions with the context manager.
+
+[day-010](./2022/day-010.py)
+
+[Matrix-vector multiplication](https://mbernste.github.io/posts/matrix_vector_mult/)
+
+Matrix-vector multiplication is an operation between a matrix and a vector that produces a new vector.
+
+[Matrix multiplication](https://mbernste.github.io/posts/matrix_multiplication/)
+
+That is, given two matrices **A** and **B**, each column of the product matrix **AB** is formed by performing [matrix-vector multiplication](https://mbernste.github.io/posts/matrix_vector_mult/) between **A** and each column of **B**. 
+
+[Code demo](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.2-Multiplying-Matrices-and-Vectors/)
