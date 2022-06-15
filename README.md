@@ -18,11 +18,11 @@ Contents
 
 ## Daily coding list
 
-[day-001](./2022/day-001.py)
+### [day-001](./2022/day-001.py)
 
-[day-002](./2022/day-002.py)
+### [day-002](./2022/day-002.py)
 
-[day-003](./2022/day-003.py)
+### [day-003](./2022/day-003.py)
 
 > LBYL vs EAFP: Preventing or Handling Errors in Python
 
@@ -36,25 +36,25 @@ However, the fact remains that Python as a language doesn't have an explicit pre
 
 ["As with many other things in life, the answer to the initial questions is: it depends! If the problem at hand suggests that EAFP is the best approach, then go for it. On the other hand, if the best solution implies using LBYL, then use it without thinking that you’re violating a Pythonic rule."](https://realpython.com/python-lbyl-vs-eafp/#the-pythonic-way-to-go-lbyl-or-eafp)
 
-[day-004](./2022/day-004.py)
+### [day-004](./2022/day-004.py)
 
 > LBYL vs EAFP: Preventing or Handling Errors in Python
 
 Avoiding Race Conditions
 
-[day-005](./2022/day-005.py)
+### [day-005](./2022/day-005.py)
 
 > Python Type Checking (Guide)
 
 Type hint 101
 
-[day-006](./2022/day-006.py)
+### [day-006](./2022/day-006.py)
 
 > Pairwise distances or affinity
 
 
 
-[day-007](./2022/day-007.py)
+### [day-007](./2022/day-007.py)
 
 > Common Assertion Formats
 
@@ -68,15 +68,15 @@ Type hint 101
 
   
 
-[day-008](./2022/day-008.py)
+### [day-008](./2022/day-008.py)
 
 The goal of assertion should be to uncover programmers’ errors rather than users’ errors. 
 
-[day-009](./2022/day-009.py)
+### [day-009](./2022/day-009.py)
 
 Handling exceptions with the context manager.
 
-[day-010](./2022/day-010.py)
+### [day-010](./2022/day-010.py)
 
 [Matrix-vector multiplication](https://mbernste.github.io/posts/matrix_vector_mult/)
 
@@ -87,3 +87,7 @@ Matrix-vector multiplication is an operation between a matrix and a vector that 
 That is, given two matrices **A** and **B**, each column of the product matrix **AB** is formed by performing [matrix-vector multiplication](https://mbernste.github.io/posts/matrix_vector_mult/) between **A** and each column of **B**. 
 
 [Code demo](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-2.2-Multiplying-Matrices-and-Vectors/)
+
+### [day-011](./2022/day-011.py)
+
+Boolean logic [best-practices](https://realpython.com/tutorials/best-practices/)
