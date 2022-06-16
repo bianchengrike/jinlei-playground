@@ -91,3 +91,8 @@ That is, given two matrices **A** and **B**, each column of the product matrix *
 ### [day-011](./2022/day-011.py)
 
 Boolean logic [best-practices](https://realpython.com/tutorials/best-practices/)
+
+### [day-012](./2022/day-012.py)
+
+Using Python’s and Operator in Non-Boolean Contexts
+
