@@ -96,8 +96,13 @@ Boolean logic [best-practices](https://realpython.com/tutorials/best-practices/)
 
 Using Python’s and Operator in Non-Boolean Contexts
 
-### [day-013](./2022/day-01.py)
+### [day-013](./2022/day-013.py)
 
 Functional Programming
 
  Functions are **first-class citizens**,  note the distinction between function names and function calls. A function name is same as a classname.
+
+### [day-014](./2022/day-014.py)
+
+perceptron learning algorithm
+
