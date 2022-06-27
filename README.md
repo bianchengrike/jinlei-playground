@@ -106,3 +106,6 @@ Functional Programming
 
 perceptron learning algorithm
 
+### [day-015](./2022/day-015.py)
+
+data read for myself 
