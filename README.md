@@ -115,4 +115,9 @@ data read for myself
 statistical inference
 
 ### [day-017](./2022/day-017.py)
+
 the use of except, else(then may be correct) and finally
+
+### [day-018](./2022/day-018.py)
+
+Logarithmic coordinates
