@@ -121,3 +121,7 @@ the use of except, else(then may be correct) and finally
 ### [day-018](./2022/day-018.py)
 
 Logarithmic coordinates
+
+### [day-019](./2022/day-019.py)
+
+Flip coins
