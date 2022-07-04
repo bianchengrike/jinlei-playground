@@ -125,3 +125,7 @@ Logarithmic coordinates
 ### [day-019](./2022/day-019.py)
 
 Flip coins
+
+### [day-020](./2022/day-020.py)
+
+Just play for fun
