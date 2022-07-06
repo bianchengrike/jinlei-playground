@@ -129,3 +129,7 @@ Flip coins
 ### [day-020](./2022/day-020.py)
 
 Just play for fun
+
+### [day-021](./2022/day-021.py)
+
+Frequently used database config code
