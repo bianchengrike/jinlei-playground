@@ -137,3 +137,7 @@ Frequently used database config code
 ### [day-022](./2022/day-022.py)
 
 Load model file
+
+### [day-023](./2022/day-023.py)
+
+Cluster plot
