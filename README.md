@@ -133,3 +133,7 @@ Just play for fun
 ### [day-021](./2022/day-021.py)
 
 Frequently used database config code
+
+### [day-022](./2022/day-022.py)
+
+Load model file
