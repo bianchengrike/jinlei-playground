@@ -141,3 +141,7 @@ Load model file
 ### [day-023](./2022/day-023.py)
 
 Cluster plot
+
+### [day-024](./2022/day-024.py)
+
+Clustering performance evaluation
