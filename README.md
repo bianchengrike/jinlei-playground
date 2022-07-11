@@ -149,3 +149,7 @@ Clustering performance evaluation
 ### [day-025](./2022/day-025.py)
 
 今天写了一篇[公众号](https://mp.weixin.qq.com/s/v3HKppOa3DXRiwcu6VNThg)，喜欢的朋友可以订阅一下🙏。里面引用了 Python 中处理异常的两种编程风格：LBYL vs EAFP
+
+### [day-026](./2022/day-026.py)
+
+向量的范数
