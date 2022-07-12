@@ -153,3 +153,7 @@ Clustering performance evaluation
 ### [day-026](./2022/day-026.py)
 
 向量的范数
+
+### [day-027](./2022/day-027.py)
+
+对比 Python 加载机器学习模型的两种方式
