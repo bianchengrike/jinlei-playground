@@ -157,3 +157,7 @@ Clustering performance evaluation
 ### [day-027](./2022/day-027.py)
 
 对比 Python 加载机器学习模型的两种方式
+
+### [day-028](./2022/day-028.py)
+
+通过类保存流水线处理的中间结果
