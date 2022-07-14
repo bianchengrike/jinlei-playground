@@ -161,3 +161,7 @@ Clustering performance evaluation
 ### [day-028](./2022/day-028.py)
 
 通过类保存流水线处理的中间结果
+
+### [day-029](./2022/day-029.py)
+
+Selecting columns based on dtype
