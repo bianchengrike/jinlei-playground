@@ -165,3 +165,7 @@ Clustering performance evaluation
 ### [day-029](./2022/day-029.py)
 
 Selecting columns based on dtype
+
+### [day-030](./2022/day-030.py)
+
+有时候，在对 df 操作中，没有生成新的对象，导致程序出现了bug
