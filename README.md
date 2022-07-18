@@ -178,3 +178,6 @@ Selecting columns based on dtype
 
 对于之前写代码时出现的bug：如果目前还找不到比较优雅的解决方式，那就先用最基（丑）本（陋）的办法解决掉，毕竟，有总比没有好。
 
+### [day-033](./2022/day-033.py)
+
+深入阅读理解 `Python` 官网对于 `iterable` and `iterator`的说明
