@@ -181,3 +181,7 @@ Selecting columns based on dtype
 ### [day-033](./2022/day-033.py)
 
 深入阅读理解 `Python` 官网对于 `iterable` and `iterator`的说明
+
+### [day-034](./2022/day-034.py)
+
+无监督学习一些思考
