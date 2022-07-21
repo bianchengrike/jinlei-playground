@@ -189,3 +189,7 @@ Selecting columns based on dtype
 ### [day-035](./2022/day-035.py)
 
 Pickle sklearn pipeline 
+
+### [day-036](./2022/day-036.py)
+
+Argument Tuple Packing vs. Argument Tuple Unpacking
