@@ -193,3 +193,7 @@ Pickle sklearn pipeline
 ### [day-036](./2022/day-036.py)
 
 Argument Tuple Packing vs. Argument Tuple Unpacking
+
+### [day-037](./2022/day-037.py)
+
+聚类评价：聚类前和聚类后
