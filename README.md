@@ -197,3 +197,5 @@ Argument Tuple Packing vs. Argument Tuple Unpacking
 ### [day-037](./2022/day-037.py)
 
 聚类评价：聚类前和聚类后
+### [day-038](./2022/day-038.py)
+职责模式_v1.0
