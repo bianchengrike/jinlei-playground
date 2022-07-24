@@ -198,4 +198,9 @@ Argument Tuple Packing vs. Argument Tuple Unpacking
 
 聚类评价：聚类前和聚类后
 ### [day-038](./2022/day-038.py)
+
 职责模式_v1.0
+
+### [day-039](./2022/day-039.py)
+
+职责模式抽象框架
