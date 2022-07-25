@@ -204,3 +204,27 @@ Argument Tuple Packing vs. Argument Tuple Unpacking
 ### [day-039](./2022/day-039.py)
 
 职责模式抽象框架
+
+### [day-040](./2022/day-040.py)
+
+条件概率
+$$
+p(A,B,C) = p(A|B,C) * p(C|B) * p(B) \\
+
+p(B,C) = p(C|B) * p(B) = p(B|C) * p(C)
+$$
+
+$$
+p(A|B) = p(A|B,C) * p(C|B) + p(A|B, \overline{C}) * p(\overline{C}|B)
+$$
+
+$$
+\begin{align*}
+
+p(A|B) &= \frac{p(A,B)}{p(B)} \\
+       &= \frac{p(A,B,C)}{p(B)}  + \frac{p(A,B, \overline{C})}{p(B)} \\
+       &= \frac{p(A,B,C)}{p(C|B) * p(B)} * p(C|B) + \frac{p(A,B, \overline{C})}{p(\overline{C}|B) * p(B)} * p(\overline{C}|B) \\
+       &= p(A|B,C) * p(C|B) + p(A|B, \overline{C}) * p(\overline{C}|B)
+
+\end{align*}
+$$
