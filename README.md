@@ -228,3 +228,9 @@ p(A|B) &= \frac{p(A,B)}{p(B)} \\
 
 \end{align*}
 $$
+
+### [day-041](./2022/day-041.py)
+
+Interpret ML
+
+ 
