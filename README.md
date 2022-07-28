@@ -234,3 +234,7 @@ $$
 Interpret ML
 
  
+
+### [day-042](./2022/day-042.py)
+
+SOM 网络的研究
