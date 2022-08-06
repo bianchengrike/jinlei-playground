@@ -270,3 +270,7 @@ Python 封装数据类 v2
 ### [day-049](./2022/day-049.py)
 
 Python 封装数据类 v3
+
+### [day-050](./2022/day-050.py)
+
+WOE (weight of evidence) 编码
