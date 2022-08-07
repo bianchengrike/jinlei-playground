@@ -274,3 +274,8 @@ Python 封装数据类 v3
 ### [day-050](./2022/day-050.py)
 
 WOE (weight of evidence) 编码
+
+### [day-051](./2022/day-051.py)
+
+多维数组的切片与拼接
+
