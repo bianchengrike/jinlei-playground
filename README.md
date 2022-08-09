@@ -282,3 +282,7 @@ WOE (weight of evidence) 编码
 ### [day-052](./2022/day-052.py)
 
 连续特征离散化，离散特征数值化
+
+### [day-053](./2022/day-053.py)
+
+KBinsDiscretizer
