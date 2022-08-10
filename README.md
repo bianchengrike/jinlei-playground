@@ -286,3 +286,14 @@ WOE (weight of evidence) 编码
 ### [day-053](./2022/day-053.py)
 
 KBinsDiscretizer
+
+### [day-054](./2022/day-054.py)
+
+特征评估指标：熵、卡方值
+$$
+\chi^2 = \sum\limits_{i=1}^n \sum\limits_{j=1}^m \frac{(Bin_{ij} - E_{ij})^2}{E_{ij}}
+$$
+
+$$
+\frac{N \times \big(P(f_i,c_j) \times P(\overline{f_i}, \overline{c_j}) - P(f_i,\overline{c_j}) \times P(\overline{f_i},c_j) \big) }{P(f_i) \times P(\overline{f_i}) \times P(c_i) \times P(\overline{c_i})}
+$$
