@@ -351,3 +351,8 @@ $$
 ### [day-058](./2022/day-058.py)
 
 FeatureUnion 的 demo
+
+### [day-059](./2022/day-059.py)
+
+sklearn 标准化的一个误区
+
