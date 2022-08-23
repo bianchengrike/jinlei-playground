@@ -389,3 +389,12 @@ pd.merge( on="account_id")
 ### [day-065](./2022/day-065.py)
 
 PCA 代码实践
+
+
+
+### [day-066](./2022/day-066.py)
+
+SVD 分解，[参考](https://zhuanlan.zhihu.com/p/29846048)
+
+
+
