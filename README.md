@@ -415,3 +415,7 @@ SVD 分解，[参考](https://zhuanlan.zhihu.com/p/29846048)
 ### [day-070](./2022/day-070.py)
 
 一种DataFrame 可视化落地的方式
+
+### [day-071](./2022/day-071.py)
+
+研究了一下 [running page](https://github.com/yihong0618/running_page),没成功
