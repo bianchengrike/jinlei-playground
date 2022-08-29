@@ -419,3 +419,7 @@ SVD 分解，[参考](https://zhuanlan.zhihu.com/p/29846048)
 ### [day-071](./2022/day-071.py)
 
 研究了一下 [running page](https://github.com/yihong0618/running_page),没成功
+
+### [day-072](./2022/day-072.py)
+
+非线性——多项式、非多项式、分段函数，本次示范多项式
