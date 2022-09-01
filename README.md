@@ -457,3 +457,7 @@ $$
 $$
 \frac{\partial{J(a,b)}}{\partial{b}} = \sum\limits_{i=1}^{m} (2ax^{(i)} + 2b - 2y^{(i)})
 $$
+
+### [day-074](./2022/day-074.py)
+
+轮廓系数- samples
